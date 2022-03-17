@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cinema-Catalogue/static/css/main.a9546632.css",
+    "main.js": "/Cinema-Catalogue/static/js/main.51768599.js",
+    "index.html": "/Cinema-Catalogue/index.html",
+    "main.a9546632.css.map": "/Cinema-Catalogue/static/css/main.a9546632.css.map",
+    "main.51768599.js.map": "/Cinema-Catalogue/static/js/main.51768599.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9546632.css",
+    "static/js/main.51768599.js"
+  ]
+}
